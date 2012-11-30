@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Santhosh_Development\AuthenticationModeDetector\AuthenticationModeDetector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Santhosh_Development\AuthenticationModeDetector\AuthenticationModeDetector\bin\Debug\AuthenticationModeDetector.exe
+C:\Users\Administrator\Documents\Santhosh_Development\AuthenticationModeDetector\AuthenticationModeDetector\bin\Debug\AuthenticationModeDetector.pdb
+C:\Users\Administrator\Documents\Santhosh_Development\AuthenticationModeDetector\AuthenticationModeDetector\obj\Debug\AuthenticationModeDetector.exe
+C:\Users\Administrator\Documents\Santhosh_Development\AuthenticationModeDetector\AuthenticationModeDetector\obj\Debug\AuthenticationModeDetector.pdb
+C:\Users\Administrator\Documents\Santhosh_Development\AuthenticationModeDetector\AuthenticationModeDetector\bin\Debug\Microsoft.Sharepoint.Sandbox.dll

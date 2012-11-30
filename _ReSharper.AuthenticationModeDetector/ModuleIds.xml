@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="7772AB55-44DA-4657-9624-CB081A148291" ModuleId="AuthenticationModeDetector" />
+  <Module PersistentId="6BC0A850-0C0C-4B16-BD74-C06297C6F01D" ModuleId="SharePointClaims" />
+</Modules>
